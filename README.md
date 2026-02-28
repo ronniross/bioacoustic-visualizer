@@ -4,6 +4,10 @@ A Python tool that generates animated 3D pitch trajectories from bioacoustic sig
 
 The [bioacoustic-visualizer](https://github.com/ronniross/bioacoustic-visualizer/tree/main) emerged from further development of the [biosignal-translator](https://github.com/ronniross/biosignal-translator/) repository, as a way to expand cross-species framing depth.
 
+<p align="center">
+  <img src="https://github.com/ronniross/bioacoustic-visualizer/blob/main/renders/northern-naterthrush-1.gif" alt="heatmap-1" width="500"/>
+</p>
+
 ---
 
 Ronni Ross  
