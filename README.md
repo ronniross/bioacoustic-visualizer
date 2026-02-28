@@ -16,7 +16,7 @@ Generates animated 3D pitch trajectories from bioacoustic signals. This script c
 
 ## Visualizer 2 
 
-### radial mapping deep dea echolocation sonar visualizer
+### radial mapping deep sea echolocation sonar visualizer
 
 Instead of a 3D spiral, this script maps time to a circle (like a radar sweep). The amplitude of the clicks violently spikes outward from the baseline, and the frequencies dictate the color of the bioluminescent "bursts." As the audio plays, a radar playhead sweeps around the circle, leaving a glowing trail behind it, with dynamic typography in the center.
 
