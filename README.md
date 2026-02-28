@@ -11,6 +11,7 @@ Generates animated 3D pitch trajectories from bioacoustic signals. This script c
 <p align="center">
   <img src="https://github.com/ronniross/bioacoustic-visualizer/blob/main/renders/northern-waterthrush-3.gif" alt="visualizer" width="500"/>
 </p>
+(northern-waterthrush)
 
 [folder](https://github.com/ronniross/bioacoustic-visualizer/tree/main/%CE%B1-3D-peak-frequency-per-frame)
 
@@ -23,7 +24,7 @@ Instead of a 3D spiral, this script maps time to a circle (like a radar sweep). 
 <p align="center">
 <img src="https://github.com/ronniross/bioacoustic-visualizer/blob/main/renders/sperm-whale-sonar-echolocation-2.gif" alt="visualizer" width="500"/>
 </p>
-
+(sperm-whale)
 [folder](https://github.com/ronniross/bioacoustic-visualizer/tree/main/%CE%B2-sonar-echolocation-radial)
 
 ---
